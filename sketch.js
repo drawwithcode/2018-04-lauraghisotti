@@ -81,7 +81,7 @@ textSize(20);
  // text(string, x, y)
  fill("white");
  text('Move from left to right to accelerate the helix, and from right to left to decelerate it.',30,50);
- text('Click to enlarge it, click again to shrink it, and click once more to bring it back to its original dimensions.',30,100);
+ text('Click to enlarge it, click again to shrink it, and click once more to bring it back to its original size.',30,100);
  fill(60, 190, 255);
  text('Refresh to change the shades of color.',30,height-50);
  // You can insert variables
